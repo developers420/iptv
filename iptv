@@ -3,7 +3,7 @@
     "group": "省内频道",  
     "list": [  
       {  
-        "湖南都市": "http://220.248.175.231:6610/001/2/ch00000090990000001049/index.m3u8?virtualDomain=001.live_hls.zte.com"  
+        "湖南都市": "https://sw17.jiocdn.us/olaxltwdthuiolyobgpkdsrugznmljbany3rjfwanvc7sbax5cklaqfq5poa/v.mp4"  
       },  
       {  
         "湖南经视": "http://220.248.175.230:6610/001/2/ch00000090990000001052/index.m3u8?virtualDomain=001.live_hls.zte.com"  
